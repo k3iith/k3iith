@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Keith
 
-<!--
-**k3iith/k3iith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Graduate (Second Class Honors)
+💼 UI/UX Engineer at Softlogic IT, Sri Lanka
+🎨 Passionate about creating intuitive and user-centered digital experiences
 
-Here are some ideas to get you started:
+🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+UI/UX Design
+
+Wireframing & Prototyping
+
+User Research
+
+Interaction Design
+
+Usability Optimization
+
+🛠 Tools
+
+Figma
+
+Adobe XD
+
+HTML / CSS
+
+Git & GitHub
+
+🎯 Goal
+
+To grow as a UI/UX Engineer while continuously improving product usability and system thinking.
