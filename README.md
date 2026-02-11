@@ -1,9 +1,9 @@
 👋 Hi, I'm Keith Kurukulaadithya
 
-🎓 Software Engineering Graduate (Second Class Honors)
-💼 UI/UX Engineer at Softlogic IT, Sri Lanka
+🎓 Software Engineering Graduate (Second Class Honors).
+💼 UI/UX Engineer at Softlogic IT, Sri Lanka.
 
-🎨 Passionate about creating intuitive and user-centered digital experiences
+🎨 Passionate about creating intuitive and user-centered digital experiences.
 
 🚀 What I Do
 
