@@ -16,9 +16,13 @@ Usability Optimization
 🛠 Tools
 
 Figma
+
 Adobe XD
+
 HTML / CSS
+
 Git & GitHub
+
 
 🎯 Goal
 
