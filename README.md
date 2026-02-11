@@ -7,26 +7,19 @@
 
 🚀 What I Do
 
-UI/UX Design
-
-Wireframing & Prototyping
-
-User Research
-
-Interaction Design
-
-Usability Optimization
+UI/UX Design,
+Wireframing & Prototyping,
+User Research,
+Interaction Design,
+Usability Optimization.
 
 
 🛠 Tools
 
-Figma
-
-Adobe XD
-
-HTML / CSS
-
-Git & GitHub
+Figma,
+Adobe XD,
+HTML / CSS,
+Git & GitHub.
 
 
 🎯 Goal
