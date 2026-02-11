@@ -8,10 +8,15 @@
 🚀 What I Do
 
 UI/UX Design
+
 Wireframing & Prototyping
+
 User Research
+
 Interaction Design
+
 Usability Optimization
+
 
 🛠 Tools
 
